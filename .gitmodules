@@ -1,6 +1,3 @@
 [submodule "kali-nethunter-kernel"]
 	path = kali-nethunter-kernel
 	url = https://github.com/Regloom/kali-nethunter-kernel.git
-[submodule "KernelSU"]
-	path = KernelSU
-	url = https://github.com/tiann/KernelSU
